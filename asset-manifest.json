@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xDIZx/CalendarTest.git/static/css/main.aa9da778.css",
+    "main.js": "/xDIZx/CalendarTest.git/static/js/main.bbb52ab8.js",
+    "static/js/453.c24b5030.chunk.js": "/xDIZx/CalendarTest.git/static/js/453.c24b5030.chunk.js",
+    "index.html": "/xDIZx/CalendarTest.git/index.html",
+    "main.aa9da778.css.map": "/xDIZx/CalendarTest.git/static/css/main.aa9da778.css.map",
+    "main.bbb52ab8.js.map": "/xDIZx/CalendarTest.git/static/js/main.bbb52ab8.js.map",
+    "453.c24b5030.chunk.js.map": "/xDIZx/CalendarTest.git/static/js/453.c24b5030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9da778.css",
+    "static/js/main.bbb52ab8.js"
+  ]
+}
