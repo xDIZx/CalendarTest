@@ -332,3 +332,6 @@ textarea:focus {
   width: -webkit-fill-available;
 }
 
+.rbc-time-view .rbc-allday-cell{
+  z-index: 0 !important;
+}
